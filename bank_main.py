@@ -40,7 +40,7 @@ clients.append(Client('Anna'))
 clients.append(Client('Jenifer'))
 clients.append(Client('Miki'))
 
-clients[0].add_account(Account('EUR', 200))
+clients[0].add_account(Account('EUR', 20))
 clients[0].add_account(Account('USD', 150))
 clients[0].add_account(Account('CAD', 300))
 
